@@ -50,3 +50,4 @@ dart_code_metrics:
     - prefer-static-class
     - prefer-trailing-comma
     - tag-name
+    - avoid-unawaited-futures-in-future-sync-functions
